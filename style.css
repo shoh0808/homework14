@@ -1,0 +1,38 @@
+
+
+.bigBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 100px;
+
+}
+
+.box {
+    
+    width: 150px;
+    height: 150px;
+    background-color: red;
+    border: 2px solid rgb(8, 3, 3);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.textbox {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+h1 {
+    text-align: center;
+}
+.textbox2{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 100px;
+    font-weight: bold;
+}
